@@ -1,28 +1,29 @@
 <div>
-<img align="center" scr="https://i.imgur.com/4ASafy0.png">
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
-  <img scr="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCode1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p aling="center">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-  <img scr="https://readme-typing-svg.herokuapp/com?color=E22FE4&width=380&height=45&lines=Junior+Golang+Development;Always+Learing+New+Things;Nice+To+Meet+You+///&center=true"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Junior+Golang+Development;Always+Learing+New+Things;Nice+To+Meet+You+...&center=true"></a>
   
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI2NTBrNHd6Znc1NWF4am16dHUycDZpaGRoODlieTZoamo1bzB3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/>
+</div>
+
 ## <👩‍💻 About Me>
 
 My name is **Arina** and I'm a Junior Golang Backend Developer 😉 &nbsp;&nbsp;I'm an **Enthusiast in Development and Cloud Technologies** & also passionate about **Open Source** 💻  &nbsp;I believe in **Learning & Empowering Others**  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ## <🔩 ToolBox>  
 <h1 align = "center">
